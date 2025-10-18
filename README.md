@@ -8,4 +8,4 @@ Project Description:
 This is my Stage 0 DevOps task for the HNG13 internship.  
 It involves deploying an NGINX web server serving a custom HTML page.
 
-Server IP/Domain: (Add after deployment)
+Server IP/Domain: 34.234.73.201
